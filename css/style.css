@@ -1,0 +1,17 @@
+body {
+    background-color: honeydew;
+}
+
+div {
+    background-color: white;
+    padding: 1em;
+    border-radius: 5px;
+}
+
+h1 {
+    font-family: sans-serif;
+}
+
+p {
+    font-family: serif;
+}
